@@ -1,10 +1,8 @@
-# Kaggle - BirdCLEF 2023 [link](https://www.kaggle.com/competitions/birdclef-2023/data)
-
----
+# [Kaggle - BirdCLEF 2023](https://www.kaggle.com/competitions/birdclef-2023/data)
 
 ## Contributer
 
-[byeol5832](https://github.com/byeol5832/Competition.Kaggle.BirdCLEF2023)
+[byeol5832](https://github.com/byeol5832)
 
 [404Vector](https://github.com/404Vector)
 
